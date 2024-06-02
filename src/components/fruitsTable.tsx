@@ -1,4 +1,4 @@
-// import { Typography } from '@mui/material';
+import { Typography } from '@mui/material';
 import { TableWrapperProps, FruitsOrVeggies } from './types';
 
 export const FruitsTable = ({
